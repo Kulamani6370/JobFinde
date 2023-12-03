@@ -7,7 +7,7 @@ import {
 } from "react-router-dom";
 import Wrapper from "../assets/wrappers/RegisterAndLoginPage";
 import { FormRow, Logo } from "../components";
-import customFetch from "../utils/customFetch";
+import customFetch from "../Utils/customFetch";
 import { toast } from "react-toastify";
 
 // eslint-disable-next-line react-refresh/only-export-components
