@@ -2,7 +2,7 @@ import { FormRow } from "../components";
 import Wrapper from "../assets/wrappers/DashboardFormPage";
 import { useOutletContext } from "react-router-dom";
 import { useNavigation, Form } from "react-router-dom";
-import customFetch from "../utils/customFetch";
+import customFetch from "../Utils/customFetch";
 import { toast } from "react-toastify";
 
 // eslint-disable-next-line react-refresh/only-export-components
