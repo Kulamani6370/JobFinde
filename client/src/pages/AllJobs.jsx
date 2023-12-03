@@ -1,6 +1,6 @@
 import { toast } from "react-toastify";
 import { JobsContainer, SearchContainer } from "../components";
-import customFetch from "../utils/customFetch";
+import customFetch from "../Utils/customFetch";
 import { useLoaderData } from "react-router-dom";
 import { useContext, createContext } from "react";
 
